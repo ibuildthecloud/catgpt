@@ -12,6 +12,8 @@ To install `catgpt`, you can run the following command:
 go install github.com/ibuildthecloud/catgpt@main
 ```
 
+Or download a binary from the releases.
+
 ## Usage
 
 ```
