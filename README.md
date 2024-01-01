@@ -7,7 +7,7 @@ This is a command-line tool that uses the OpenAI model to generate text based on
 To install `catgpt`, you can run the following command:
 
 ```
-go install github.com/ibuildthecloud/catgpt
+go install github.com/ibuildthecloud/catgpt@main
 ```
 
 ## Usage
