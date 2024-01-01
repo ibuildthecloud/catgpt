@@ -2,10 +2,8 @@ module github.com/ibuildthecloud/catgpt
 
 go 1.21.5
 
-replace github.com/acorn-io/cmd => ../cmd
-
 require (
-	github.com/acorn-io/cmd v0.0.0-20231020234559-285455daa0d8
+	github.com/acorn-io/cmd v0.0.0-20240101193821-66a32bc6b939
 	github.com/moby/term v0.0.0-20221205130635-1aeaba878587
 	github.com/sashabaranov/go-openai v1.17.9
 	github.com/spf13/cobra v1.7.0

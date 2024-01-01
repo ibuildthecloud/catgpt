@@ -2,6 +2,8 @@ github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1 h1:UQHMgLO+TxOEl
 github.com/Azure/go-ansiterm v0.0.0-20210617225240-d185dfc1b5a1/go.mod h1:xomTg63KZ2rFqZQzSB4Vz2SUXa1BpHTVz9L5PTmPC4E=
 github.com/acorn-io/baaah v0.0.0-20231009165317-af2b68361b8a h1:0bHfiYUw4ojXCUfGHUPmRewrgJ/EpLQ4BaR4yEy8BC4=
 github.com/acorn-io/baaah v0.0.0-20231009165317-af2b68361b8a/go.mod h1:1KSGxZt0E2MDedJESKUUYtxCwsJ3A+xZiw2QD8cVbjU=
+github.com/acorn-io/cmd v0.0.0-20240101193821-66a32bc6b939 h1:wTD+GlRD4zlJb5hu7BpR/bmpvPybHXQbn4JYVt23kOQ=
+github.com/acorn-io/cmd v0.0.0-20240101193821-66a32bc6b939/go.mod h1:J0xhtXVfrJk3Fz1HYz3AoJ/ON9gaHu/baTkqOvywcfo=
 github.com/bombsimon/logrusr/v4 v4.0.0 h1:Pm0InGphX0wMhPqC02t31onlq9OVyJ98eP/Vh63t1Oo=
 github.com/bombsimon/logrusr/v4 v4.0.0/go.mod h1:pjfHC5e59CvjTBIU3V3sGhFWFAnsnhOR03TRc6im0l8=
 github.com/cpuguy83/go-md2man/v2 v2.0.2/go.mod h1:tgQtvFlXSQOSOSIRvRPT7W67SCa46tRHOmNcaadrF8o=
