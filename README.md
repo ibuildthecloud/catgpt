@@ -1,5 +1,7 @@
 # catgpt
 
+`NOTE`: If you find this interesting check out [GPTScript](https://github.com/gptscript-ai/gptscript) instead. This is archived as I built that project and I like it better.
+
 Because I'm lazy and this helps me be lazier.
 
 This is a command-line tool that uses the OpenAI model to generate text based on user input.
